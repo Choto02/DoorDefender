@@ -1,4 +1,6 @@
 # DoorDefender
+![smart-door-lock-icon-vector](https://github.com/Choto02/DoorDefender/assets/62578702/fe8c6e7f-dea0-426c-a37d-81d56cc3ed58)
+
 Embedded IoT Project
 
 
