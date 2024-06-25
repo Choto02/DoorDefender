@@ -1,6 +1,8 @@
 #include "esp_camera.h"
 #include <WiFi.h>
 
+
+
 //
 // WARNING!!! PSRAM IC required for UXGA resolution and high JPEG quality
 //            Ensure ESP32 Wrover Module or other board with PSRAM is selected
@@ -153,3 +155,5 @@ void loop() {
   // Do nothing. Everything is done in another task by the web server
   delay(10000);
 }
+
+
